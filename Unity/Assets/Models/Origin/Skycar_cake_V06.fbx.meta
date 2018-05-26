@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 2fe1e77e182f4465ca1b97a036078984
-timeCreated: 1510271812
-licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -736,6 +734,7 @@ ModelImporter:
     2300352: Tube
     2300354: Tube_2
     2300356: Windshield
+    2300358: Body
     3300000: 3_2
     3300002: _
     3300004: a
@@ -915,6 +914,7 @@ ModelImporter:
     3300352: Tube
     3300354: Tube_2
     3300356: Windshield
+    3300358: Body
     4300000: Cone
     4300002: Cone_2
     4300004: Capsule_4
@@ -1094,8 +1094,10 @@ ModelImporter:
     4300352: Cap_1_25
     4300354: Rounding_2_19
     4300356: Cap_2_26
+    4300358: Body
     7400000: CINEMA_4D_Main
     9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -1210,6 +1212,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -1234,6 +1237,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
